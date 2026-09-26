@@ -1,0 +1,78 @@
+{
+  "_comment": "Illustrative, high-level rule summaries used as grounding context for the test harness. Edit freely. They are NOT legal advice and are not exhaustive; verify with counsel before relying on any verdict in production.",
+  "DE": {
+    "name": "Germany",
+    "notes": [
+      "Weapons Act (WaffG) bans knuckle dusters, switchblades/automatic knives, butterfly knives and similar; ordinary fixed-blade and folding knives are legal to sell.",
+      "Pepper spray may only be sold when labelled as an animal-repellent spray (Tierabwehrspray); sprays marketed for use against people are not permitted.",
+      "Hemp/CBD products are permitted up to 0.3% THC; higher THC content falls under narcotics law.",
+      "Kratom is not a scheduled narcotic but is an unauthorised novel food, so it may not be sold for consumption.",
+      "Nicotine pouches (tobacco-free) are treated as unauthorised food and may not be sold; vapes and e-liquids are legal, max 20 mg/ml nicotine and 2 ml tank, adults only.",
+      "Alcohol including absinthe is legal to sell to adults; thujone limits apply under EU rules (35 mg/kg for strong spirits).",
+      "Laser pointers above class 2 (1 mW) may not be sold to consumers.",
+      "Ivory trade is prohibited except antiques with valid CITES/EU documentation.",
+      "Prescription medicines (e.g. tramadol) require a prescription and licensed pharmacy; melatonin above about 1 mg is treated as a medicine.",
+      "Hydroquinone is banned in cosmetics across the EU; SARMs are not approved for human use.",
+      "Real-money online gambling requires a German GGL licence."
+    ]
+  },
+  "UK": {
+    "name": "United Kingdom",
+    "notes": [
+      "Flick knives, butterfly knives, disguised knives and knuckle dusters are banned; selling any knife to under-18s is illegal.",
+      "Pepper spray is classed as a prohibited weapon (Firearms Act s.5) and cannot be sold.",
+      "Kratom is covered by the Psychoactive Substances Act 2016, so supply for human consumption is illegal.",
+      "CBD products need FSA novel-food authorisation and must have no more than trace controlled cannabinoids (1 mg per container).",
+      "Single-use disposable vapes are banned from sale since 1 June 2025; refillable vapes allowed with max 20 mg/ml nicotine and 2 ml tank.",
+      "Nicotine pouches are legal to sell to adults.",
+      "Melatonin is prescription-only.",
+      "Prescription medicines (e.g. tramadol, Class C controlled) require a prescription.",
+      "Hydroquinone is banned in cosmetics; SARMs are unlicensed medicines and cannot be sold for human use.",
+      "Ivory Act 2018 bans dealing in elephant ivory with narrow exemptions requiring registration.",
+      "Real-money gambling requires a UK Gambling Commission licence.",
+      "Laser pointers above 1 mW should not be sold to consumers (product safety guidance)."
+    ]
+  },
+  "US": {
+    "name": "United States (federal baseline; state law varies)",
+    "notes": [
+      "Switchblades cannot be shipped across state lines (Federal Switchblade Act); knuckle dusters are illegal in several states.",
+      "Pepper spray is legal in most states with size limits in some.",
+      "Hemp-derived CBD is federally legal at or below 0.3% delta-9 THC.",
+      "Kratom is federally unscheduled but banned in several states (e.g. Alabama, Arkansas, Indiana, Rhode Island, Vermont, Wisconsin).",
+      "Vapes and e-liquids need FDA premarket authorisation; most flavoured disposables are unauthorised. Nicotine products are 21+.",
+      "Melatonin is sold over the counter.",
+      "Tramadol is Schedule IV and prescription-only; selling without a prescription is a federal offence.",
+      "Hydroquinone is prescription-only since 2020 (no OTC sale); SARMs cannot be sold as dietary supplements.",
+      "Laser pointers above 5 mW cannot legally be marketed as pointers (FDA).",
+      "Near-total ban on elephant ivory sales with narrow antique exemptions.",
+      "Online casino gambling is legal only in a handful of states with a licence."
+    ]
+  },
+  "IN": {
+    "name": "India",
+    "notes": [
+      "E-cigarettes, vapes and e-liquids are fully banned (PECA 2019); import, sale and advertising are offences.",
+      "Cannabis flower and resin (including THC-rich CBD extracts) are controlled under the NDPS Act; some hemp products are permitted under state licences.",
+      "Tramadol has been a scheduled psychotropic under NDPS since 2018 and requires a prescription.",
+      "Real-money online gaming (casino, betting) is banned nationwide under the Promotion and Regulation of Online Gaming Act 2025.",
+      "Ivory trade is banned under the Wildlife (Protection) Act.",
+      "Alcohol sale is state-licensed and cannot be sold online in most states.",
+      "Knuckle dusters and concealed weapons fall under the Arms Act.",
+      "Melatonin and many supplements are sold OTC but hydroquinone above 2% is prescription-only."
+    ]
+  },
+  "AE": {
+    "name": "United Arab Emirates",
+    "notes": [
+      "Any cannabis or THC content, including CBD oils, is prohibited under narcotics law; kratom is also banned.",
+      "Alcohol can only be sold by licensed outlets to licence holders; online sale by general merchants is not permitted.",
+      "Vapes and nicotine products are legal but must meet ESMA standards and are sold to adults only.",
+      "Pepper spray, knuckle dusters and most self-defence weapons are prohibited.",
+      "Tramadol is a controlled substance and requires a prescription; SARMs and hydroquinone products are restricted.",
+      "Gambling is illegal except for operators licensed by the GCGRA.",
+      "Ivory and CITES-listed wildlife products are banned.",
+      "Counterfeit goods are seized and sellers prosecuted."
+    ]
+  }
+}

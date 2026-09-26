@@ -1,0 +1,32 @@
+{
+  "name": "jev-product-compliance",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "classify": "node --env-file=.env --import tsx src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "ai": "^7.0.112"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "description": "Screen store products for illegal or policy-risky goods per country with TypeSafe AI's Jev evaluation model via Vercel AI Gateway",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raiharsh88/jev-product-compliance"
+  },
+  "keywords": [
+    "jev",
+    "typesafe-ai",
+    "vercel-ai-gateway",
+    "compliance",
+    "product-moderation",
+    "ai-sdk"
+  ]
+}

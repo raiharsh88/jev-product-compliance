@@ -1,0 +1,247 @@
+[
+  {
+    "id": "p01",
+    "storeHandle": "demo-audio",
+    "title": "Aria K2 Wireless Headphones",
+    "description": "Over-ear Bluetooth 5.3 headphones with 40h battery and ANC.",
+    "category": "Electronics > Audio",
+    "tags": [
+      "bluetooth",
+      "headphones"
+    ],
+    "price": 149
+  },
+  {
+    "id": "p02",
+    "storeHandle": "demo-botanicals",
+    "title": "Full-Spectrum CBD Oil 2000mg",
+    "description": "High-strength hemp-derived CBD tincture, 20% CBD, contains up to 0.3% THC. Not evaluated by any health authority.",
+    "category": "Health > Supplements",
+    "tags": [
+      "cbd",
+      "hemp",
+      "wellness"
+    ],
+    "price": 89
+  },
+  {
+    "id": "p03",
+    "storeHandle": "demo-botanicals",
+    "title": "Premium Kratom Powder \u2013 Maeng Da 250g",
+    "description": "Finely ground Mitragyna speciosa leaf. Traditional botanical for energy and relaxation.",
+    "category": "Health > Botanicals",
+    "tags": [
+      "kratom",
+      "botanical"
+    ],
+    "price": 34
+  },
+  {
+    "id": "p04",
+    "storeHandle": "demo-gear",
+    "title": "Tactical Brass Knuckles \u2013 Paperweight",
+    "description": "Solid brass four-finger knuckle duster. Sold as a novelty paperweight.",
+    "category": "Collectibles",
+    "tags": [
+      "brass",
+      "novelty"
+    ],
+    "price": 25
+  },
+  {
+    "id": "p05",
+    "storeHandle": "demo-gear",
+    "title": "Pepper Spray Keychain 20ml",
+    "description": "OC pepper spray for personal defence, 3m range, keychain clip.",
+    "category": "Safety > Personal Defence",
+    "tags": [
+      "self-defence",
+      "pepper-spray"
+    ],
+    "price": 14
+  },
+  {
+    "id": "p06",
+    "storeHandle": "demo-replicas",
+    "title": "Designer-Style Monogram Tote (LV Inspired)",
+    "description": "1:1 mirror-quality replica of the classic monogram tote. Looks identical to the original at a fraction of the price.",
+    "category": "Fashion > Bags",
+    "tags": [
+      "replica",
+      "designer",
+      "tote"
+    ],
+    "price": 120
+  },
+  {
+    "id": "p07",
+    "storeHandle": "demo-vapes",
+    "title": "Disposable Vape 5000 Puffs \u2013 Mango Ice, 50mg/ml",
+    "description": "Nicotine salt disposable e-cigarette, 5% nicotine, 13ml e-liquid, 5000 puffs.",
+    "category": "Vaping",
+    "tags": [
+      "vape",
+      "nicotine",
+      "disposable"
+    ],
+    "price": 19
+  },
+  {
+    "id": "p08",
+    "storeHandle": "demo-vapes",
+    "title": "Nicotine Pouches \u2013 Mint 20mg (Pack of 10)",
+    "description": "Tobacco-free oral nicotine pouches, 20mg per pouch.",
+    "category": "Tobacco alternatives",
+    "tags": [
+      "nicotine",
+      "pouches"
+    ],
+    "price": 45
+  },
+  {
+    "id": "p09",
+    "storeHandle": "demo-spirits",
+    "title": "Absinthe Verte 68% ABV 700ml",
+    "description": "Traditional wormwood absinthe distilled in France, 68% alcohol by volume, 35mg/kg thujone.",
+    "category": "Alcohol > Spirits",
+    "tags": [
+      "absinthe",
+      "spirits"
+    ],
+    "price": 62
+  },
+  {
+    "id": "p10",
+    "storeHandle": "demo-labs",
+    "title": "High-Power Green Laser Pointer 500mW",
+    "description": "Class 4 handheld laser, 532nm, 500mW output. Can pop balloons and light matches. Not a toy.",
+    "category": "Electronics > Gadgets",
+    "tags": [
+      "laser",
+      "high-power"
+    ],
+    "price": 79
+  },
+  {
+    "id": "p11",
+    "storeHandle": "demo-antiques",
+    "title": "Antique Ivory Netsuke Carving, c.1890",
+    "description": "Hand-carved elephant ivory netsuke, Meiji period Japan. Sold without CITES documentation.",
+    "category": "Antiques",
+    "tags": [
+      "ivory",
+      "antique",
+      "netsuke"
+    ],
+    "price": 850
+  },
+  {
+    "id": "p12",
+    "storeHandle": "demo-sleep",
+    "title": "Melatonin 10mg Extra Strength \u2013 120 tablets",
+    "description": "Fast-dissolve melatonin tablets for sleep support, 10mg per tablet.",
+    "category": "Health > Supplements",
+    "tags": [
+      "melatonin",
+      "sleep"
+    ],
+    "price": 18
+  },
+  {
+    "id": "p13",
+    "storeHandle": "demo-pharma",
+    "title": "Tramadol 50mg \u2013 30 capsules, no prescription needed",
+    "description": "Fast pain relief shipped discreetly worldwide. No Rx required.",
+    "category": "Health > Medication",
+    "tags": [
+      "painkiller",
+      "no-prescription"
+    ],
+    "price": 60
+  },
+  {
+    "id": "p14",
+    "storeHandle": "demo-kids",
+    "title": "Organic Cotton Baby Onesie 3-pack",
+    "description": "GOTS-certified organic cotton bodysuits, sizes 0-12 months.",
+    "category": "Kids > Clothing",
+    "tags": [
+      "baby",
+      "organic"
+    ],
+    "price": 29
+  },
+  {
+    "id": "p15",
+    "storeHandle": "demo-casino",
+    "title": "Online Casino Deposit Voucher \u20ac50",
+    "description": "Redeemable credit for real-money slots and roulette on partner casino sites.",
+    "category": "Gift Cards",
+    "tags": [
+      "casino",
+      "gambling",
+      "voucher"
+    ],
+    "price": 50
+  },
+  {
+    "id": "p16",
+    "storeHandle": "demo-outdoors",
+    "title": "Fixed-Blade Hunting Knife 6\" Drop Point",
+    "description": "Full-tang 1095 steel hunting knife with leather sheath. 6 inch blade.",
+    "category": "Outdoors > Knives",
+    "tags": [
+      "knife",
+      "hunting"
+    ],
+    "price": 95
+  },
+  {
+    "id": "p17",
+    "storeHandle": "demo-outdoors",
+    "title": "Spring-Assisted Flipper Knife (Switchblade Style)",
+    "description": "Automatic-opening pocket knife with spring-assist button deploy, 3.5 inch blade.",
+    "category": "Outdoors > Knives",
+    "tags": [
+      "knife",
+      "automatic"
+    ],
+    "price": 48
+  },
+  {
+    "id": "p18",
+    "storeHandle": "demo-skin",
+    "title": "Skin Lightening Cream with 4% Hydroquinone",
+    "description": "Intensive brightening cream. Contains 4% hydroquinone and 0.05% tretinoin for fast results.",
+    "category": "Beauty > Skincare",
+    "tags": [
+      "whitening",
+      "hydroquinone"
+    ],
+    "price": 32
+  },
+  {
+    "id": "p19",
+    "storeHandle": "demo-fit",
+    "title": "SARMs Ostarine MK-2866 10mg \u2013 60 caps",
+    "description": "Research compound for lean muscle gain. For laboratory research use only.",
+    "category": "Fitness > Supplements",
+    "tags": [
+      "sarms",
+      "muscle"
+    ],
+    "price": 70
+  },
+  {
+    "id": "p20",
+    "storeHandle": "demo-home",
+    "title": "Ceramic Pour-Over Coffee Dripper",
+    "description": "Hand-glazed stoneware V60-style dripper, fits standard #2 filters.",
+    "category": "Home > Kitchen",
+    "tags": [
+      "coffee",
+      "ceramic"
+    ],
+    "price": 38
+  }
+]
