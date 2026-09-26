@@ -82,7 +82,7 @@ function decide(p: { prohibited: number; restricted: number; platformRisk: numbe
   if (p.prohibited >= review) return 'needs_review'
   if (p.restricted >= mid || p.platformRisk >= mid) return 'restricted'
   return 'allowed'
-}git
+}
 
 /** Walk err → lastError → cause looking for a 429, and pull `retry-after` (seconds) if present. */
 function rateLimitInfo(err: unknown): { limited: boolean; retryAfterMs: number } {
